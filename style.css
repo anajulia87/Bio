@@ -1,0 +1,10 @@
+body{
+    background-color: #141414;
+}
+.conteiner{
+    background-color: #ffffff;
+    display: flex;
+}
+.conteiner div{
+    background-color: #333;
+}
